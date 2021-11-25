@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "name": "Ms. Tamara Trantow",
+      "dob": "1969-3-1",
+      "email": "Tamara.Trantow@gmail.com",
+      "username": "Tamara.Trantow",
+      "password": "OZsvGqzZuzIT404",
+      "phone": "(440) 907-2071 x471",
+      "streetaddress": "5839 Reid Burgs",
+      "citystatezip": "Miguelbury, AK 48579",
+      "latitude": "-17.1320",
+      "longitude": "-134.0497",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mirfanqureshi/128.jpg"
+    }
+  ]
+}

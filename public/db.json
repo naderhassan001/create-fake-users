@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "name": "Gregory Veum",
+      "dob": "1964-11-10",
+      "email": "Gregory_Veum@hotmail.com",
+      "username": "Gregory_Veum",
+      "password": "KFQgREYemeZbVAc",
+      "phone": "961.845.6579",
+      "streetaddress": "398 Cristina Walks",
+      "citystatezip": "Hegmannborough, VT 30758-1542",
+      "latitude": "-60.9359",
+      "longitude": "93.7753",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/christianoliff/128.jpg"
+    },
+    {
+      "name": "Hubert Konopelski",
+      "dob": "1950-9-1",
+      "email": "Hubert63@gmail.com",
+      "username": "Hubert_Konopelski85",
+      "password": "yeXuJvtECfcxVmi",
+      "phone": "318.431.0072",
+      "streetaddress": "03119 Roberts Extensions",
+      "citystatezip": "West Montana, CT 75960",
+      "latitude": "-66.3194",
+      "longitude": "59.9664",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jmillspaysbills/128.jpg"
+    },
+    {
+      "name": "Jettie Stamm",
+      "dob": "1976-12-28",
+      "email": "Jettie26@gmail.com",
+      "username": "Jettie_Stamm",
+      "password": "RYdopp9Zs33gHha",
+      "phone": "1-821-507-6606 x0689",
+      "streetaddress": "923 Dandre Mission",
+      "citystatezip": "North Gabriella, ID 54077",
+      "latitude": "-76.4088",
+      "longitude": "59.0748",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/steynviljoen/128.jpg"
+    },
+    {
+      "name": "Torey Vandervort DDS",
+      "dob": "1947-1-9",
+      "email": "Torey_Vandervort@hotmail.com",
+      "username": "Torey.Vandervort",
+      "password": "Tp6oTWOGsDcPD60",
+      "phone": "(409) 737-9458 x7609",
+      "streetaddress": "5202 Brown Inlet",
+      "citystatezip": "Wizatown, PA 14702-2436",
+      "latitude": "22.0670",
+      "longitude": "-66.1162",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/arthurholcombe1/128.jpg"
+    },
+    {
+      "name": "Ms. Jesus Buckridge",
+      "dob": "1972-2-24",
+      "email": "Jesus86@hotmail.com",
+      "username": "Jesus_Buckridge44",
+      "password": "IJZLCzL0ghcmNz1",
+      "phone": "(449) 307-8262 x349",
+      "streetaddress": "5854 Kuphal Greens",
+      "citystatezip": "Port Stephaniashire, MS 12453-2804",
+      "latitude": "-35.2988",
+      "longitude": "54.7225",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mashaaaaal/128.jpg"
+    },
+    {
+      "name": "Juliana Stehr",
+      "dob": "1972-11-18",
+      "email": "Juliana_Stehr@hotmail.com",
+      "username": "Juliana_Stehr",
+      "password": "8s7uZVXHcymqm9I",
+      "phone": "514.859.0118 x01899",
+      "streetaddress": "5264 Cornelius Row",
+      "citystatezip": "Darrylmouth, LA 59879-2543",
+      "latitude": "-85.2296",
+      "longitude": "50.2306",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sergeysafonov/128.jpg"
+    },
+    {
+      "name": "Daron Keeling",
+      "dob": "1944-2-26",
+      "email": "Daron.Keeling@gmail.com",
+      "username": "Daron.Keeling10",
+      "password": "S3jgMd53i6emjBx",
+      "phone": "(336) 350-2009",
+      "streetaddress": "095 Garnett Lakes",
+      "citystatezip": "Johnnymouth, PA 08587",
+      "latitude": "-0.0653",
+      "longitude": "130.9027",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hugocornejo/128.jpg"
+    }
+  ]
+}
