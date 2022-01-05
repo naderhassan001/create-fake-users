@@ -1,25 +1,4 @@
-﻿[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<!--
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
--->
-
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <!--
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-  -->
-
-  <h3 align="center">Create Fake Data with the Faker.js Project</h3>
+<h3 align="center">Create Fake Data with the Faker.js Project</h3>
 
 </p>
 
@@ -71,8 +50,6 @@ This project is an example of how to run applications in the cloud. In this case
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To run on your machine, navigate to [https://clarkj97-http-server.herokuapp.com/](https://clarkj97-http-server.herokuapp.com/)
-
 ### Prerequisites
 
 
@@ -86,7 +63,7 @@ To run on your machine, navigate to [https://clarkj97-http-server.herokuapp.com/
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/clarkjoey/create-fake-users.git
+   git clone https://github.com/naderhassan001/create-fake-users.git
    ```
 2. Install NPM packages
    ```sh
@@ -96,8 +73,6 @@ To run on your machine, navigate to [https://clarkj97-http-server.herokuapp.com/
    ```sh
    node http_server.js
    ```
-4. Navigate to [https://clarkj97-http-server.herokuapp.com/](https://clarkj97-http-server.herokuapp.com/) to run the application
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -141,7 +116,6 @@ Distributed under the MIT License.
 
 Nader Hassan - [https://www.linkedin.com/](https://www.linkedin.com/) - LinkedIn
 
-Project Link: [https://github.com/](https://github.com/)
 
 
 
@@ -151,22 +125,3 @@ Project Link: [https://github.com/](https://github.com/)
 * [Readme Template Credit: Othneil Drew](https://github.com/othneildrew/Best-README-Template)
 * []()
 * []()
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/clarkjoey/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/clarkjoey/personal-website-frontend/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/clarkjoey/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/clarkjoey/personal-website-frontend/network/members
-[stars-shield]: https://img.shields.io/github/stars/clarkjoey/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/clarkjoey/personal-website-frontend/stargazers
-[issues-shield]: https://img.shields.io/github/issues/clarkjoey/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/clarkjoey/personal-website-frontend/issues
-[license-shield]: https://img.shields.io/github/license/clarkjoey/repo.svg?style=for-the-badge
-[license-url]: https://github.com/clarkjoey/personal-website-frontend/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/imjosephclark/
