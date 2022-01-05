@@ -109,19 +109,7 @@ Contributions are what make the open source community such an amazing place to l
 
 Distributed under the MIT License. 
 
-
-
-<!-- CONTACT -->
-## Contact
-
-Nader Hassan - [https://www.linkedin.com/](https://www.linkedin.com/) - LinkedIn
-
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
 * [Readme Template Credit: Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* []()
-* []()
